@@ -36,5 +36,6 @@ This project is a Python-powered AI assistant that uses a combination of Text-to
 - Open (site_name)
 - "What's the weather"
 - "What's the time"  
-- "What's the date" 
+- "What's the date"
+
 This project is all about making AI feel more personal and natural. Whether you’re using it for productivity or just for fun, it’s designed to be a helpful, friendly voice assistant that you can interact with any time, using just your voice.
